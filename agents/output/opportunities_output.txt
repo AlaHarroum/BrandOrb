@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Sports Cafe Investors Solutions Inc.",
+    "description": "Leading provider of sports cafe investors services and solutions",
+    "city": "New York",
+    "email": "contact@sportscafeinvestorssolutions.com",
+    "homepage": "https://sportscafeinvestors-solutions.com",
+    "logoUrl": "",
+    "phoneNumber": "+1-555-0123"
+  },
+  {
+    "name": "Global Sports Cafe Investors Partners",
+    "description": "International network specializing in sports cafe investors industry partnerships",
+    "city": "San Francisco",
+    "email": "partnerships@globalsportscafeinvestors.com",
+    "homepage": "https://global-sportscafeinvestors.com",
+    "logoUrl": "",
+    "phoneNumber": "+1-555-0456"
+  },
+  {
+    "name": "Sports Cafe Investors Connect Ltd.",
+    "description": "Connecting businesses in the sports cafe investors sector with growth opportunities",
+    "city": "Austin",
+    "email": "info@sportscafeinvestorsconnect.com",
+    "homepage": "https://sportscafeinvestors-connect.com",
+    "logoUrl": "",
+    "phoneNumber": "+1-555-0789"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "image_url": "https://image.pollinations.ai/prompt/clean-modern-workspace-representing-Create-a-caffee-shop-store-for-athletes-professional-photography-natural-lighting-consumer-friendly-design-wide-shot-professional-photography-natural-lighting-clean?width=1344&height=640&model=flux&nologo=true&private=true&seed=157687",
+  "business_idea": "Create a caffee shop store for athletes",
+  "generated_at": "2025-10-21T10:04:02.361094",
+  "status": "success",
+  "local_path": "C:\\Users\\aharroum\\Desktop\\Personnal\\work\\SummerCamp\\BrandOrbAI\\BrandOrbAI\\backend\\agents\\output\\images\\Create_a_caffee_shop_store_for_athletes_1761037438.jpg",
+  "filename": "Create_a_caffee_shop_store_for_athletes_1761037438.jpg",
+  "file_size": 163634,
+  "serve_url": "http://localhost:8001/images/Create_a_caffee_shop_store_for_athletes_1761037438.jpg",
+  "has_base64": true
+}

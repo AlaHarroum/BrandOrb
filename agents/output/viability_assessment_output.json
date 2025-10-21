@@ -1,0 +1,60 @@
+{
+  "market_difficulty": 7,
+  "success_probability": 60,
+  "risk_level": "medium",
+  "funding_difficulty": 8,
+  "time_to_profitability": 12,
+  "market_opportunity_score": 8,
+  "competition_intensity": 6,
+  "regulatory_complexity": 5,
+  "overall_viability_score": 65,
+  "startup_budget_amount": 300,
+  "startup_budget_currency": "DT",
+  "budget_adequacy": "insufficient",
+  "key_success_factors": [
+    "speed to market",
+    "niche focus",
+    "capitalizing on market opportunity"
+  ],
+  "major_risks": [
+    "slip and fall accidents",
+    "intellectual property infringement",
+    "data breach risks"
+  ],
+  "recommendations": [
+    "obtain necessary licenses",
+    "develop a comprehensive risk management plan",
+    "invest in digital marketing"
+  ],
+  "financial_health": {
+    "startup_cost_assessment": "high",
+    "revenue_potential": "medium",
+    "break_even_feasibility": "fair"
+  },
+  "market_position": {
+    "competitive_advantage": "moderate",
+    "market_timing": "good",
+    "target_market_size": "medium"
+  },
+  "execution_difficulty": {
+    "technical_complexity": "medium",
+    "operational_complexity": "low",
+    "skill_requirements": "medium"
+  },
+  "currency_info": {
+    "primary_currency": "DT",
+    "currency_symbol": "DT",
+    "conversion_notes": "assuming 1 DT = 0.3 USD for estimation purposes"
+  },
+  "business_context": {
+    "business_type": "Digital Platform",
+    "industry": "Technology",
+    "target_market": "Local Market",
+    "product_category": "Digital Services",
+    "budget": 300,
+    "currency": "DT",
+    "target_demographic": "general audience",
+    "location": "Local",
+    "fulfillment": "Digital"
+  }
+}

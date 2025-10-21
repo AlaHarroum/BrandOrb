@@ -1,0 +1,27 @@
+Key Partners:
+['Sports Cafe Investors Solutions Inc.', 'Global Sports Cafe Investors Partners', 'Sports Cafe Investors Connect Ltd.', 'Suppliers of food and beverages', 'Logistics and delivery services', 'Sports teams and athletes for partnerships']
+
+Key Activities:
+['Developing and maintaining the e-commerce platform', "Sourcing high-quality men's clothing and cafe supplies", 'Marketing and advertising to target audience of athletes', 'Managing and training staff for the cafe shop', 'Ensuring compliance with food safety and health regulations']
+
+Key Resources:
+['Initial funding of 100000 euros', 'E-commerce platform and website', 'Cafe shop location and equipment', "Inventory of men's clothing and supplies", 'Staff and personnel', 'Marketing and advertising budget']
+
+Value Propositions:
+["Convenient online shopping experience for men's clothing", 'Unique cafe shop experience for athletes', "High-quality products and services tailored to athletes' needs", 'Personalized customer service and support']
+
+Customer Relationships:
+['Personalized marketing and advertising', 'Responsive customer service and support', 'Loyalty programs and rewards', 'Engagement through social media and events']
+
+Channels:
+['E-commerce platform and website', 'Social media platforms', 'Influencer marketing and partnerships', 'Email marketing and newsletters', 'Cafe shop location']
+
+Customer Segments:
+['Young adults', 'Professionals', 'Athletes and sports enthusiasts']
+
+Cost Structure:
+['Salaries and compensation', 'Marketing and advertising expenses', 'Inventory and supply chain costs', 'Rent and utilities for the cafe shop', 'E-commerce platform maintenance and development']
+
+Revenue Streams:
+[{'stream_name': 'E-commerce Sales', 'description': "Sales of men's clothing through the e-commerce platform"}, {'stream_name': 'Cafe Sales', 'description': 'Sales of food and beverages through the cafe shop'}]
+
